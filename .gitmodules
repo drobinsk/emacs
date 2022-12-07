@@ -1,3 +1,6 @@
 [submodule "spacemacs-theme"]
 	path = spacemacs-theme
 	url = https://github.com/nashamri/spacemacs-theme.git
+[submodule "rust-mode"]
+	path = rust-mode
+	url = https://github.com/rust-lang/rust-mode.git
